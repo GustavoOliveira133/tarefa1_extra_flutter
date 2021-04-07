@@ -1,4 +1,4 @@
-# tarefa1_extra_flutter
+# tarefa1_extra_flutter INF1300
 Criar um aplicativo capaz de listar e cadastrar usuários. 
 A ideia do aplicativo é exibir em sua tela inicial uma lista de usuários já cadastrados e, além disso, também nessa tela, disponibilizar um botão para adicionar 
 um novo usuário.  Para adicionar um usuário, o aplicativo deverá utilizar uma navegação (Navigation) para ir até uma segunda tela. Nessa tela, deve ser possível  
